@@ -9,11 +9,11 @@
 - 📫 [My projects] (https://github.com/RubanDz)
 
 - Contact me:
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Linkedin](https://www.linkedin.com/in/dzmitry-ivanov-11460b2aa/)
+- [Telegram](https://t.me/@RDI2023)
+- [Instagram]()
+- [Facebook]()
+- [X]()
 
 <!---
 RubanDz/RubanDz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
