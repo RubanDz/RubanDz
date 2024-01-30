@@ -10,7 +10,7 @@
 
 - Contact me:
 - [Linkedin](https://www.linkedin.com/in/dzmitry-ivanov-11460b2aa/)
-- [Telegram](https://t.me/@RDI2023)
+- [Telegram](https://t.me/RDI2023)
 - [Instagram]()
 - [Facebook]()
 - [X]()
