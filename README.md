@@ -1,4 +1,4 @@
-- 👋 Hello, my name is [Dmitry]
+- 👋 Hello, my name is [Dzmitry]
 - 👀 I am from the city of Vitebsk (Belarus)
 - 🌱 My greatest passion is everything related to the computer and the latest technologies. I love programming!
 - 💞️ My skills: 
